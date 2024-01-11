@@ -25,3 +25,5 @@ ax.plot(activity, cat, label="cat")
 ax.legend()
 
 plt.savefig('lines.png', bbox_inches='tight')
+
+# Added a comment for github actions
