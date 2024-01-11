@@ -26,4 +26,4 @@ ax.legend()
 
 plt.savefig('lines.png', bbox_inches='tight')
 
-# Added a comment for github actions
+# Added a comment for github actions.
